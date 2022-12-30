@@ -4,6 +4,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),TECNO-LE7n)
+ifeq ($(TARGET_DEVICE),TECNO_LE7n)
 
 endif
